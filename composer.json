@@ -3,7 +3,8 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Erdee\\Afasprofit\\": "iPublications/Profit/src"
+            "Erdee\\Afasprofit\\": "iPublications/Profit/",
+            "iPublications\\Profit\\": "iPublications/Profit/"
         }
     },
     "authors": [
