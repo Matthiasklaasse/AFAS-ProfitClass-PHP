@@ -1,6 +1,6 @@
 <?php
 
-namespace Erdee\Profit\src;
+namespace Erdee\Afasprofit;
 
 use iPublications\Profit\Connector;
 use Spatie\ArrayToXml\ArrayToXml;
