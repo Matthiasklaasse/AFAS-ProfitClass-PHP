@@ -1,0 +1,16 @@
+{
+    "name": "erdee/afasprofit",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Erdee\\Afasprofit\\": "iPublications/Profit/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matthias klaasse",
+            "email": "mklaasse@erdee.nl"
+        }
+    ],
+    "require": {}
+}
