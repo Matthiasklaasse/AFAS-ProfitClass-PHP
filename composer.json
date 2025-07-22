@@ -12,5 +12,7 @@
             "email": "mklaasse@erdee.nl"
         }
     ],
-    "require": {}
+    "require": {
+        "spatie/array-to-xml": "^3.4"
+    }
 }
