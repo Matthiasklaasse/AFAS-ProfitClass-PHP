@@ -1,10 +1,12 @@
 <?php
 
-namespace iPublications\Profit;
+namespace Erdee\Profit\src;
 
 use iPublications\Profit\Connector;
 use Spatie\ArrayToXml\ArrayToXml;
 use Exception;
+use iPublications\Profit\Connection;
+use iPublications\Profit\UpdateConnector;
 
 class DeclarationUploader
 {
